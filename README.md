@@ -23,6 +23,6 @@
 
   ## Contact
 
-  author:
+  Author:
 
   #### Denzel Anoliefo
