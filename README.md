@@ -23,6 +23,6 @@
 
   ## Contact
 
-  For any questions or feedback, please feel free to contact me, the author:
+  author:
 
   #### Denzel Anoliefo
