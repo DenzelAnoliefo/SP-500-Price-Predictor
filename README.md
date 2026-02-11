@@ -1,6 +1,6 @@
 # S&P 500 Stock Price Prediction with Machine Learning
 
-  ## Introduction
+  ## Introductionnnn
 
   This project aims to predict the direction of the S&P 500 stock index using machine learning techniques. The S&P 500 is a widely followed index that tracks the performance of 500 large-cap American stocks. By predicting its movement, this    project offers insights valuable for investors and traders.
 
